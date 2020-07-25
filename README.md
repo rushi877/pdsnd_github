@@ -15,8 +15,7 @@
 
 ### Credits
 
-*Used Pandas Data Frame References to extract Data from Existing Columns in the Dataset to Customized Derived Columns *
-
+*Used Pandas Data Frame References to extract Data from Existing Columns in the Dataset to Customized Derived Columns*
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html
 
 *Thanks to Udacity For Providing Cleaned Datasets*
