@@ -171,6 +171,7 @@ def user_stats(df):
     else:
         print("Oops currently we don't have user birth year information in this city")
 #Created new function show_data(df) to show the data to the user
+#This Function helps in Showing Data to the user
 def show_data(df):
     print("Hey, user - Would you like to see some raw data for the city you've chosen\n")
     #have set the default to 5, when user entered yes next 5 rows will be shown to the user
