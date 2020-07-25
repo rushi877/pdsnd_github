@@ -30,9 +30,9 @@ def get_filters():
             break
     #get user input for month (all, january, february, ... , june)
     while True: 
-        month = input("Choose any one month among January, February, March, April, May and June\n").lower()
+        month = input("Choose any one month among Jan, Feb, Mar, Apr, May and Jun\n").lower()
         if month not in months:
-            print("You entered wrong month kindly Choose any one month Among January, February, March, April, May and June\n")
+            print("You entered wrong month kindly Choose any one month Among Jan, Feb, Mar, Apr, May and Jun\n")
             continue
         else:
             break
